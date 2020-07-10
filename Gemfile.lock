@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    tim_wins_2020_trump_catches_rona (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.11.3)
+    rake (12.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest (~> 5.0)
+  rake (~> 12.0)
+  tim_wins_2020_trump_catches_rona!
+
+BUNDLED WITH
+   2.1.4
